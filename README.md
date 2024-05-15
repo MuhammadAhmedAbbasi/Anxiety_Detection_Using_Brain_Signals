@@ -9,3 +9,13 @@ Human anxiety is a grave mental health concern that needs to be addressed in the
 1. BaseLine Correction:
 
 2. ![image](https://github.com/MuhammadAhmedAbbasi/Anxiety_Detection_Using_Brain_Signals/assets/156083287/b091c120-0414-4b9b-8869-8f8113787b91)
+
+
+2. Evaluating Noise
+
+3. ![image](https://github.com/MuhammadAhmedAbbasi/Anxiety_Detection_Using_Brain_Signals/assets/156083287/70c903f4-7aa8-447c-9ebd-a6bbc2b05d17)
+
+4. Online Deployment Using Flask and checking model working Through Postman
+
+5. ![image](https://github.com/MuhammadAhmedAbbasi/Anxiety_Detection_Using_Brain_Signals/assets/156083287/7b38e86f-8d8e-4133-8a4d-009cf3035f44)
+
