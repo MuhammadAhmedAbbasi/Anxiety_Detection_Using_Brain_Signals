@@ -1,0 +1,15 @@
+affectivecloud
+fastapi
+grpcio
+grpcio-tools
+gunicorn
+mypy-protobuf # for development, used to generate pyi files for grpc
+neurokit2
+numpy
+pandas
+pydantic
+redis
+requests
+scikit-learn
+torch
+uvicorn
